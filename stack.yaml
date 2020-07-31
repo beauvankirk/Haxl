@@ -1,5 +1,5 @@
-resolver: lts-8.15
-
+resolver: lts-16.7
+haddock: true
 packages:
   - '.'
 
